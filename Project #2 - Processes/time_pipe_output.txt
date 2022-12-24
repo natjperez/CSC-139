@@ -1,0 +1,12 @@
+total 128
+-rwxr-xr-x 1 runner runner 56920 Oct 21 01:11 main
+-rw-r--r-- 1 runner runner   411 Oct 13 22:06 Makefile
+-rw-r--r-- 1 runner runner    81 Jan 18  2022 replit.nix
+-rwxr-xr-x 1 runner runner 54880 Oct 21 01:11 time
+-rw-r--r-- 1 runner runner  2025 Oct 20 04:17 time_pipe.c
+-rw-r--r-- 1 runner runner     0 Oct 21 01:12 time_pipe_output.txt
+-rw-r--r-- 1 runner runner  2468 Oct 18 06:32 time_shm.c
+Hello, I am the parent
+...Child has completed its tasks
+
+Elapsed Time: 0.005818 seconds
